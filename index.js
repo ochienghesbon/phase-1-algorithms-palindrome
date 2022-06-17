@@ -11,6 +11,11 @@ isPalindrome("madam");
 
 /* 
   Add your pseudocode here
+  convert,reverse and join array elements into a string
+check if the string and the reversed string are equal
+  return true
+else
+  return false
 */
 
 /*
